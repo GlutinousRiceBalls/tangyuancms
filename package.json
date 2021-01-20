@@ -1,0 +1,26 @@
+{
+  "name": "tangyuancms",
+  "version": "1.0.0",
+  "description": "TangYuanCms",
+  "main": "index.js",
+  "scripts": {
+    "test": "supervisor index"
+  },
+  "author": "Yuan Tang",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlutinousRiceBalls/tangyuancms.git"
+  },
+  "keywords": [
+    "TangYuanCms"
+  ],
+  "bugs": {
+    "url": "https://github.com/GlutinousRiceBalls/tangyuancms/issues"
+  },
+  "homepage": "https://github.com/GlutinousRiceBalls/tangyuancms#readme"
+}
